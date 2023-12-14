@@ -8,7 +8,7 @@ secrets and configmap components of kubernetes were used to pass the database pa
 
 the mongoDB was deployed at the frontend using mongo-express. 
 
-# the following requirements below is necessary when using minikube fior deployment:
+# the following requirements below are necessary when using minikube for deployment:
 2 CPUs or more
 2GB of free memory
 20GB of free disk space
