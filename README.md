@@ -2,7 +2,7 @@
 
 ![mongodb login page](./mongo-image.png)
 
-this a deployment that explains working with mongo database in DevOps best practises.
+this is a deployment process that explains deploying mongo database using DevOps best practises.
 
 secrets and configmap components of kubernetes were used to pass the database password and username, this provides security best practise in deploying a mongoDB.
 
