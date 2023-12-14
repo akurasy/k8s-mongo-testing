@@ -81,13 +81,16 @@ kubectl port-forward --address 0.0.0.0 svc/webapp-service 30007:8081
 You can configure the names and ports to suit your desired style.
 
 to see the username and password for mongo for a test environment, use the following:
-username: admin
-password: pass
 
-this can be gotten from
+username = admin
+password = pass
+
+this can be gotten from the command. 
 
 ```
-# kubectl logs pod-name
+kubectl logs pod-name
+
+#this is only for a test environment
 
 ```
 
