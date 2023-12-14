@@ -70,6 +70,7 @@ To view the deployed application, forward nodePort traffic to the service
 
 ```
 kubectl port-forward --address 0.0.0.0 svc/webapp-service 30007:8081
+
 #this will open to allow connection from anyone
 # webapp-service = name of service for mongo nodePort, 30007= nodePort,  8081 = application port
 
