@@ -22,8 +22,8 @@ To deploy this application, ensure that you have the requirements in the table b
 |Installation|Required |
 | ------------- | ------------- |
 | Docker Installed  | :heavy_check_mark:  |
-| minikube | :heavy_check_mark:  |
-| kubectl | :heavy_check_mark:  |
+| minikube Installed | :heavy_check_mark:  |
+| kubectl Installed | :heavy_check_mark:  |
 
 When you are done with the above installations, check the services if they are well installed and running fine. 
 
